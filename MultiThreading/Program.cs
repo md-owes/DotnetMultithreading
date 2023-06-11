@@ -24,7 +24,7 @@ namespace MultiThreading
             //SemaphoreTechnique();
             //ThreadPooling();
             //AsynchronousMethod().ConfigureAwait(false); Console.WriteLine("This will execute first if not awaited and last if awaited.");
-            Tpl();
+            //Tpl();
             Console.ReadKey();
         }
 
